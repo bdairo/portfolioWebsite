@@ -1,0 +1,79 @@
+body{
+    background: #ccc
+}
+
+
+#Header a:hover{
+    color:black;
+}
+
+
+#background
+{
+    background:url('tech.jpg');
+    background-size:100%;
+    background-repeat: no-repeat;
+    min-height:500px;
+}
+
+
+#About
+{
+    margin-top:-250px;
+}
+
+#About a:hover{
+    color:black;
+
+}
+
+#About span{
+    padding:15px 25px 15px 25px;
+}
+
+
+
+#About hr{
+    border-width:2px;
+    margin-top:12px;
+}
+
+#Skills span{
+    padding:15px 25px 15px 25px;
+    margin-top:12px;
+}
+
+#Skills hr{
+    border-width:2px;
+    margin-top:12px; 
+}
+
+#Experience span{
+    padding:15px 25px 15px 25px;
+    margin-top:12px;
+}
+
+#Experience hr{
+    border-width:2px;
+    margin-top:12px;
+}
+
+
+#Accomplishments span{
+    padding:15px 25px 15px 25px;
+    margin-top:12px;
+}
+
+#Accomplishments hr{
+    border-width:2px;
+    margin-top:12px;
+}
+
+#contact span{
+    padding:15px 25px 15px 25px;
+    margin-top:12px;
+}
+#contact hr{
+    border-width:2px;
+    margin-top:12px;
+}
